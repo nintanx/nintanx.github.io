@@ -1,0 +1,67 @@
+body {
+  background-image: linear-gradient(to bottom, rgb(105, 105, 245), white);
+}
+
+ul {
+  display: flex;
+  flex-direction: row;
+
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  font-size: 2em;
+  align-items: center;
+}
+
+li a {
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.bild {
+  width: 12%;
+  height: auto;
+}
+
+.daten {
+  float: right;
+}
+
+#willkommen {
+  margin: 130px auto;
+}
+#news {
+  margin: 90px auto;
+}
+
+h1 {
+  text-align: center;
+  font-size: 60px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 40px;
+}
+
+section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  align-items: center;
+}
+.kontakt {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 40%;
+}

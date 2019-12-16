@@ -1,0 +1,49 @@
+body {
+  background-color: lightpink;
+}
+p {
+  color: black;
+  font-family: cursive;
+}
+h2 {
+  color: black;
+  font-family: cursive;
+}
+li {
+  color: deeppink;
+  font-family: cursive;
+}
+a {
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.anfang {
+  width: 20%;
+  height: auto;
+  position: absolute;
+  left: 0%;
+  top: 100%;
+}
+.gewonnen {
+  width: 20%;
+  height: auto;
+  position: absolute;
+  left: 30%;
+  top: 100%;
+}
+.verloren {
+  width: 20%;
+  height: auto;
+  position: absolute;
+  left: 60%;
+  top: 100%;
+}
+.ich {
+  width: 20%;
+  height: auto;
+  position: absolute;
+  right: 10%;
+  top: 5%;
+}
