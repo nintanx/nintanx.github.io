@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.bild {
+  text-align: center;
+  margin-top: -10px;
+}
+
+.black {
+  padding: 5px;
+  background-color: black;
+}
+
+#game {
+  margin-top: -610px;
+
+  align-self: center;
+}
